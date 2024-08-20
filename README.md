@@ -10,6 +10,9 @@ CamelUp is a light strategy game where players bet on camels racing to the finis
 
 ## 🎲 How the Game Works
 
+![Board](https://opinionatedgamers.com/wp-content/uploads/2014/10/camel-up-game.jpg)
+
+
 ### One Leg of the Race
 
 The game is divided into multiple legs, each consisting of several rounds. A leg continues until all five camels have moved at least once. Here's how one leg works:
