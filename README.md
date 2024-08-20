@@ -43,19 +43,63 @@ Betting is a crucial part of CamelUp. Here’s how the Leg Betting cards work:
 
 Betting strategically is key to winning the game. Should you bet early for a higher reward, or wait to see how the race unfolds?
 
-## 💻 Getting Started
+## 💻 Running the Game
 
-Follow these steps to get the CamelUp game running on your machine:
+### For macOS
 
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/architasingh0825/CamelUp.git
-    ```
-2. **Install dependencies:**
-    ```bash
-    cd camelUp.py
-    npm install
-    ```
+1. **Ensure Python is Installed:**
+   - Python 3 is typically pre-installed on macOS, but you can install or update it using Homebrew:
+     ```bash
+     brew install python
+     ```
+
+2. **Clone the Repository:**
+   - Open Terminal and navigate to the directory where you want to store the project, then clone the repository:
+     ```bash
+     git clone https://github.com/your-username/camelup-game.git
+     cd camelup-game
+     ```
+
+3. **Install Dependencies:**
+   - Install the necessary Python libraries listed in `requirements.txt`:
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+4. **Run the Game:**
+   - Execute the Python script to start the game:
+     ```bash
+     python camelUp.py
+     ```
+   - If your system uses Python 3 as `python3`, use:
+     ```bash
+     python3 camelUp.py
+     ```
+
+### For Windows
+
+1. **Install Python:**
+   - Download and install Python 3 from the [official Python website](https://www.python.org/downloads/). Ensure you check the option to "Add Python to PATH" during installation.
+
+2. **Clone the Repository:**
+   - Open Command Prompt or PowerShell and navigate to the directory where you want to store the project, then clone the repository:
+     ```bash
+     git clone https://github.com/your-username/camelup-game.git
+     cd camelup-game
+     ```
+
+3. **Install Dependencies:**
+   - Install the necessary Python libraries listed in `requirements.txt`:
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+4. **Run the Game:**
+   - Execute the Python script to start the game:
+     ```bash
+     python camelUp.py
+     ```
+
 3. **Start the game:**
     ```bash
     npm start
