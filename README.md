@@ -1,12 +1,14 @@
 # 🐪 CamelUp
 
+CamelUp is a light strategy game where players bet on camels racing to the finish line. The twist? Camels can land on each other, forming stacks that move together, making the race totally unpredictable!
+
+![Camel Racing](https://www.thegamesteward.com/cdn/shop/products/camel-up-board-game-retail-edition-eggertspiele-34736604151960_400x.png?v=1634381138)
+
 ## ✍️ Author
 
 - **Archita Singh** - [@ArchitaSingh0825](https://github.com/architasingh0825)
 
 ## 🎲 How the Game Works
-
-CamelUp is a light strategy game where players bet on camels racing to the finish line. The twist? Camels can land on each other, forming stacks that move together, making the race totally unpredictable!
 
 ### One Leg of the Race
 
@@ -40,4 +42,22 @@ Betting is a crucial part of CamelUp. Here’s how the Leg Betting cards work:
   - Incorrect bets cost you 1 coin each.
 
 Betting strategically is key to winning the game. Should you bet early for a higher reward, or wait to see how the race unfolds?
+
+## 💻 Getting Started
+
+Follow these steps to get the CamelUp game running on your machine:
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/architasingh0825/CamelUp.git
+    ```
+2. **Install dependencies:**
+    ```bash
+    cd camelUp.py
+    npm install
+    ```
+3. **Start the game:**
+    ```bash
+    npm start
+    ```
 
